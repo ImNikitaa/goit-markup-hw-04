@@ -659,6 +659,7 @@ body {
 
 .modal-button:is(:hover, :focus) {
   background-color: #404bbf;
+  border: none;
 }
 
 .modal-icon {
